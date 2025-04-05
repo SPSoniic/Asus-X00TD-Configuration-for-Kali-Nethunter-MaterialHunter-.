@@ -1,3 +1,1 @@
-# Asus-X00TD-Configuration-for-Kali-Nethunter-MaterialHunter-.
-
-lok
+# Asus-X00TD-Configuration-for-Kali-Nethunter-MaterialHunter-
